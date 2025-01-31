@@ -1,0 +1,9 @@
+development:
+  DATABASE_USER: 'nixon'
+  DATABASE_PASSWORD: '1234'
+production:
+  DATABASE_USER: 'nixon'
+  DATABASE_PASSWORD: '1234'
+test:
+  DATABASE_USER: 'nixon'
+  DATABASE_PASSWORD: '1234'

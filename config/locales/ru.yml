@@ -1,0 +1,6 @@
+ru:
+  activerecord:
+    errors:
+      user:
+        email:
+          already_there: Уже есть пользователь с такой почтой
